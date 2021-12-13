@@ -1,0 +1,46 @@
+
+a{
+	color: rgb(0, 0, 0);
+	font-size: 30px;
+}
+td{
+	color: black;
+	justify-content: center;
+	text-align: center;
+	letter-spacing: 4px;
+	font-weight: 100;
+	font-size: 15px;
+	font-family: Algerian;
+}
+tr{
+	color: black;
+	justify-content: center;
+	text-align: center;
+	letter-spacing: 4px;
+	font-weight: 100;
+	font-size: 15px;
+	font-family: Algerian;
+}
+table.center{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+img{
+	height: 400px;
+	width: 400px;
+	margin-left: 80px;
+	margin-right: 120px;
+}
+
+body{
+	background: orange;
+	margin: 0;
+	padding: 0;
+	background-repeat: no-repeat;
+	background-size: 100%
+}
+p{
+	color: black;
+}
